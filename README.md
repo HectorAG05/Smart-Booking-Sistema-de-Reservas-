@@ -16,6 +16,10 @@ Este proyecto fue desarrollado en colaboración por:
 * **Stefania Medina**: Diseño de Interfaz (UI), Experiencia de Usuario (UX) 
 * **Donald Rodriguez**: Lider de proyecto
 
+📺 Demo en vivo:
+https://github.com/user-attachments/assets/5b3bd69c-4672-41ef-90dc-e03123c6f6a8
+
+
 ---
 
 ## 🎯 Características Principales
